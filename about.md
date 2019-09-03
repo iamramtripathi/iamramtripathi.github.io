@@ -7,7 +7,7 @@ subtitle: :)
 
 ### About This Page
 
-Hello! My name is Ram and I'm a fundamentally inquisitive person. Hence, from time to time, I embark on different endeavors (intellectual, creative, physical) and I would love to share some of my experiences with you all.
+Hello! My name is Ram and I'm a fundamentally inquisitive person. Hence, from time to time, I embark on different endeavors (intellectual, creative, physical) and I would love to share some of my experiences here.
 
 ### About Me
 
