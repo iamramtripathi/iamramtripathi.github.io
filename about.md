@@ -1,19 +1,19 @@
 ---
 layout: page
-title: about
+title: About
 permalink: /about/
 subtitle: :)
 ---
 
-### about this page
+### About This Page
 
-Hello! My name is Ram and I'm a fundamentally inquisitive person. This `inquisitiveness` of mine makes me take on many different endeavors (intellectual, creative, physical) and I would love to share some of my experiences with you all.
+Hello! My name is Ram and I'm a fundamentally inquisitive person. Hence, from time to time, I embark on different endeavors (intellectual, creative, physical) and I would love to share some of my experiences with you all.
 
-### about me
+### About Me
 
-I'm currently working as a Software Engineer at [Rakuten][rakuten]. I work with all things data - data pipelines, stream processing, storage or good old sql query optimization. I dabble in functional programming and use `clojure` as my main programming language. Needless to say that I take immense interest in distributed, parallel and concurrent computing.
+I'm currently working as a Software Engineer at [Rakuten][rakuten]. I work with all things data - data pipelines, stream processing, storage and good old sql query optimization. I dabble in functional programming and use `clojure` as my main programming language. Needless to say that I take immense interest in distributed, parallel and concurrent computing.
 
-In my previous life I've worked at [Aruba][aruba], [Juniper Networks][juniper] & [Google Summer of Code][gsoc] and got my Masters is Computer Science at [Rutgers][rutgers].
+In my previous life I've worked at [Aruba Networks][aruba], [Juniper Networks][juniper] & [Google Summer of Code][gsoc] and got my Masters is Computer Science at [Rutgers][rutgers].
 
 Some of the other things that I'm passionate about
 

@@ -22,8 +22,8 @@ description: A virtual proof that I'm awesome
 navbar-links:
   About: "about"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Pictures: "http://photos.google.com"
+    - Music: "https://soundcloud.com/ramtripathi"
   Author's home: "http://tripathi.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Ram Tripathi
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -69,11 +69,10 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: iamramtripathi
+  twitter: iamramtripathi
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: iamramtripathi
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -93,7 +92,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "tripathi.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
