@@ -17,12 +17,12 @@ In my previous life I've worked at [Aruba Networks][aruba], [Juniper Networks][j
 
 Some of the other things that I'm passionate about:
 
-- Singing (decibels no bar)
-- Playing instruments (guitar & piano)
-- Running marathons (forest gump style)
-- Soccer (glory glory man united)
-- Body building (who doesn't want them gains?)
-- Nutrition (watch them calories)
+- Singing
+- Playing instruments
+- Running marathons
+- Soccer
+- Weight lifting
+- Nutrition
 
 [aruba]: https://www.arubanetworks.com/
 [rakuten]: http://rakuten.com
