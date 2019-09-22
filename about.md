@@ -11,7 +11,7 @@ Hello! My name is Ram and I'm a fundamentally inquisitive person. From time to t
 
 ### About Me
 
-I'm currently working as a Software Engineer at [Rakuten][rakuten]. I work with all things data - data pipelines, stream processing, storage and good old sql query optimization. I dabble in functional programming and use `clojure` as my main programming language. Needless to say that I take immense interest in distributed, parallel and concurrent computing.
+I'm currently working as a Software Engineer at [Rakuten][rakuten]. I work with all things data - data pipelines, stream processing, storage and good old sql query optimization. I dabble in functional programming and currently use `clojure` as my main programming language. I take immense interest in distributed, parallel and concurrent computing.
 
 In my previous life I've worked at [Aruba Networks][aruba], [Juniper Networks][juniper] & [Google Summer of Code][gsoc] and got my Masters in Computer Science at [Rutgers University][rutgers].
 
