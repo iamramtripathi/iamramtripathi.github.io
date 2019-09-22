@@ -6,7 +6,7 @@ tags: [fitness, nutrition]
 ---
 At the beginning of this month, I had an experience, one that I would not want to re-live.
 
-I had been pretty consistently going to the gym almost all year and had been religiously following [my diet plan](https://medium.com/better-humans/everything-you-need-to-know-about-the-slow-carb-diet-a67062761d92) for a couple of months. I had an elaborate workout plan and had been sticking to it for quite some time. Everything was just perfect. Then just before the Labor Day long weekend, I decided to go to the gym. I was maybe a little tired but nothing out of the ordinary. I did have thoughts about skipping but I had not skipped a session in months and also I was going out on a trip that weekend so that meant no diet and no workout. So I decided to go anyway. It was my legs/core day. I started out perfectly fine with some 20-25 minutes of HIIT/Circuit Training. I then went to the deadlift station, setup my warm up weights (25, 25 & 45 bar). Wore my belt and started doing my sets - 1, 2, 3, *BAM*!! I felt an excruciating pain in my lower back and immediately dropped the bar bell. I just knew at that moment that something horrible had happened. I had heard so many horror stories of people having messed up backs and understandably so, my mind started rushing with the thoughts of each and every one of those stories. I started to feel dizzy. I sat down on a machine but felt that I might pass out so I tried getting up and this is the last memory I have.
+I had been pretty consistently going to the gym almost all year and had been religiously following [my diet plan](https://medium.com/better-humans/everything-you-need-to-know-about-the-slow-carb-diet-a67062761d92) for a couple of months. I had an elaborate workout plan and had been sticking to it for quite some time. Everything was just perfect. Then just before the Labor Day long weekend, I decided to go to the gym one more time. I was maybe a little tired but nothing out of the ordinary. I did have thoughts about skipping but I had not skipped a session in months and also I was going out on a trip that weekend so that meant no diet and no workout. So I decided to go anyway. It was my legs/core day. I started out perfectly fine with some 20-25 minutes of HIIT/Circuit Training. I then went to the deadlift station, setup my warm up weights (25, 25 & 45 bar), wore my belt and started doing my sets - 1, 2, 3, *BAM*!! I felt excruciating pain in my lower back and immediately dropped the bar bell. I just knew at that moment that something horrible had happened. I had heard so many horror stories of people having messed up backs and understandably so, my mind started spinning with unpleasant thoughts. I started to feel dizzy. I sat down on a machine but felt that I might pass out so I tried getting up and this is the last memory I have.
 
 The next thing I remember is that I woke up on the floor of the gym with 15 guys surrounding me. I opened my eyes momentarily and passed out again. The next time I woke up I was conscious but couldn't sit up because of the pain. Within no time the paramedics arrived at the scene and did some checkups but I knew what had happened. I pulled my back, thought too much into it and got a panic attack. That was it.
 
@@ -18,7 +18,7 @@ Dropping weights to achieve full range of motion, maintaining posture and total 
 
 **On Muscle Gain**
 
-Physical transformation is an extremely, extremely slow process. You have to, you absolutely have to rewire your brain to stop thinking about progress. The progress is often so painfully slow that if you are consciously thinking about it after everyday, it will drive you crazy. Strangely, you have to take the ambition out of your brain in order to achieve something truly ambitious. You need to make it mundane and muscle memory driven. It's okay to not feel pumped up in every workout.
+Physical transformation is an extremely, extremely slow process. You have to, you absolutely have to rewire your brain to stop thinking about progress. The progress is often so painfully slow that if you are consciously thinking about it everyday, it will drive you crazy. Strangely, you have to take the ambition out of your brain in order to achieve something truly ambitious. You need to make it mundane and muscle memory driven. It's okay to not feel pumped up in every workout.
 
 **On Fat Loss**
 
@@ -32,6 +32,8 @@ You do not need to follow extremely strict diet.  Performing at 80% will get you
 
 Once a routine truly seeps into your lifestyle, you start to draw certain pleasure from it. Being on the sidelines was hard for me as I could feel the drop in morale because of it. I would have felt better if I had managed to do some pull-ups or sit-ups but I was not fit enough to do even that. I learned an important thing - you know you have formed a habit when not doing it starts affecting your mood. That's a good place to be in. All it took for me was a few months of dedicated effort. This applies to just about anything in life.
 
-I hope someone can connect with these thoughts and maybe avoid a few mistakes I made. I'm sharing a picture of my journey so far - from fat, to fit, to figure!
+I hope someone can connect with these thoughts and maybe avoid a few mistakes I made. 
 
-<img style="float: center;" src="../img/transformation.jpg">
+<!-- I'm sharing a picture of my journey so far - from fat, to fit, to figure!
+
+<img style="float: center;" src="../img/transformation.jpg">i -->
