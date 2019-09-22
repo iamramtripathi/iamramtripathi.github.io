@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Lessons learned from Working Out
@@ -35,4 +34,4 @@ Once a routine truly seeps into your lifestyle, you start to draw certain pleasu
 
 I hope someone can connect with these thoughts and maybe avoid a few mistakes I made. I'm sharing a picture of my journey so far - from fat, to fit, to figure!
 
-<img style="float: center;" src="img/transformation.jpg">
+<img style="float: center;" src="../img/transformation.jpg">
