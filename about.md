@@ -21,7 +21,7 @@ Some of the other things that I'm passionate about:
 - Playing instruments
 - Running marathons
 - Soccer
-- Weight lifting
+- Strength training
 - Nutrition
 
 [aruba]: https://www.arubanetworks.com/
