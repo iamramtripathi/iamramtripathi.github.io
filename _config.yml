@@ -22,7 +22,7 @@ description: The Search for Everything
 navbar-links:
   About: "about"
   Resources:
-    - Pictures: "http://photos.google.com"
+    - Pictures: "https://photos.app.goo.gl/vsYMFJqX27NWTRXD9"
     - Music: "https://soundcloud.com/ramtripathi"
 
 # Image to show in the navigation bar - image must be a square (width = height)
